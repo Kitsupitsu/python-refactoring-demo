@@ -24,3 +24,6 @@ This is my awesome reporting tool! I wrote it myself, but now I don't understand
 - [getdx: How cognitive complexity creates hidden friction in engineering organizations](https://getdx.com/blog/cognitive-complexity/)
 - [Russell Helmstedter: A Case Study in Refactoring Python: Clean Code Is Often Faster](https://pybit.es/articles/a-case-study-in-refactoring-python-clean-code-is-often-faster/)
 - [Martin Heinz: The Simple Ways to Refactor Terrible Code](https://martinheinz.dev/blog/40)
+
+## Why have I written so bad code?
+This code was made for PyLadies Tampere meetup at Futurice office in February 19th 2026. [Here are the slides I presented in the meetup](https://docs.google.com/presentation/d/1K0_P5VDRZz7omTv32fvAYPTXI0WjoTWQG9DvZ5_BUT0/edit?usp=sharing).
